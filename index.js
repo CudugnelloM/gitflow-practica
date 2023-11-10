@@ -5,3 +5,6 @@ function sayHello (){
     console.log("Hola!, como estan? Todo bien?")
 }
 
+function sayBay(){
+    console.log("chau chau")
+}

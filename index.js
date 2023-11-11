@@ -1,7 +1,10 @@
-console.log("first commit, cambio de rama")
+console.log("first commit")
 
 
 function sayHello (){
-    console.log("Hola!, como estan?")
+    console.log("Hola!, como estan? Todo bien?")
 }
 
+function sayBay(){
+    console.log("chau chau")
+}
